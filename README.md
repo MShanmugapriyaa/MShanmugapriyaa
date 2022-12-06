@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MShanmugapriyaa
+- 👋 Hi, I’m Shanmugapriya.M
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java, Machine Learning.
+- 🌱 I’m currently learning Java and Machine Learning.
 - 💞️ 
 - 📫 How to reach me - shanmugapriyamurgan@gmail.com
 
