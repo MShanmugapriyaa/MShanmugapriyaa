@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Java, Machine Learning.
 - 💞️ 
-- 📫 How to reach me - shanmugapriiyamurugan@gmail.com
+- 📫 How to reach me - shanmugapriyamurgan@gmail.com
 
 <!---
 MShanmugapriyaa/MShanmugapriyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
