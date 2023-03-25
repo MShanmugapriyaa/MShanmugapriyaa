@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shanmugapriya.M
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I like Python, Java to programe. I'm good at Django, Restful webservices, and sql.
+- 💞️ I like Python, Java for programming. I'm good at Django, Restful webservices, and sql.
 - 📫 How to reach me - shanmugapriyamurgan@gmail.com
 
 <!---
