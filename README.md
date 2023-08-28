@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I like Python, Java. I'm good at Django, Restful webservices, and sql.
-- 📫 How to reach me - shanmugapriyamurgan@gmail.com
+- 📫 How to reach me - shanmugapriiyamurugan@gmail.com
 
 <!---
 MShanmugapriyaa/MShanmugapriyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
